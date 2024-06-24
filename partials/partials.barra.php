@@ -10,8 +10,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">Nosotros</a>
+                        <a href="./" class="nav-item nav-link active"><i class="fa fa-home"></i></a>
+                        <a href="./about.php" class="nav-item nav-link">Nosotros</a>
                         <a href="service.html" class="nav-item nav-link">Servicios</a>
                         <a href="service.html" class="nav-item nav-link">Blog</a>
                         <a href="contact.html" class="nav-item nav-link">Contactenos</a>
