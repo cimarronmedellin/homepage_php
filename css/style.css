@@ -507,7 +507,7 @@
     background: rgb(22, 168, 24);
     transition: 0.5s;
     z-index: 3;
-    background-color: 
+    background-color: rgb(22, 168, 24);
 }
 
 .service .service-item:hover .service-content::before {
@@ -551,7 +551,7 @@
 
 .about .about-img .about-experience {
     position: absolute;
-    top: 125px; 
+    top: 135px; 
     left: -125px; 
     transform: rotate(-90deg);
     background: transparent;

@@ -3,9 +3,9 @@
             <div class="container py-5">
                 <div class="section-title mb-5">
                     <div class="sub-style">
-                        <h4 class="sub-title text-white px-3 mb-0">Testimonial</h4>
+                        <h4 class="sub-title text-white px-3 mb-0">Casos de exito</h4>
                     </div>
-                    <h1 class="display-3 mb-4">What Clients are Say</h1>
+                    <h1 class="display-3 mb-4">Comunidad satisfecha</h1>
                 </div>
                 <div class="testimonial-carousel owl-carousel">
                     <div class="testimonial-item">

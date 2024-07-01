@@ -3,10 +3,10 @@
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">What We Do</h4>
+                        <h4 class="sub-title px-3 mb-0">Nuestros Servicios</h4>
                     </div>
-                    <h1 class="display-3 mb-4">Our Service Given Physio Therapy By Expert.</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+                    <!-- <h1 class="display-3 mb-4">Our Service Given Physio Therapy By Expert.</h1>
+                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p> -->
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
@@ -16,8 +16,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Message Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Minireporteros</h5>
+                                    <p class="mb-4">Voces jóvenes, historias vivas, nuestro orgullo.</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -30,8 +30,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Physiotherapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Escuela de formacion</h5>
+                                    <p class="mb-4">Raíces que educan, cultura que empodera.</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -44,8 +44,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Heat & Cold Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Cantaoras</h5>
+                                    <p class="mb-4">Cantos ancestrales, el poder del pasado en el presente.</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -58,8 +58,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Chiropatic Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Cimarrondas</h5>
+                                    <p class="mb-4">Tradición viva, juegos que inspiran, raíces en movimiento</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -72,8 +72,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Work Injuries</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Medicina Tradicional</h5>
+                                    <p class="mb-4">Sanando con sabiduría, curando con medicina ancestral</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -86,8 +86,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Spot Injuries</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Productos</h5>
+                                    <p class="mb-4">Emprendiendo con orgullo, transformando comunidades</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -100,8 +100,8 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Regular Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Danzas afrocolombianas</h5>
+                                    <p class="mb-4">Ritmo y raíces en movimiento, pasión que conecta.</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
@@ -114,15 +114,15 @@
                            </div>
                             <div class="service-content rounded-bottom bg-light p-4">
                                 <div class="service-content-inner">
-                                    <h5 class="mb-4">Back Pain</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
+                                    <h5 class="mb-4">Salidas Afrorecreativas</h5>
+                                    <p class="mb-4">Descubre la riqueza cultural, salidas para todos.</p>
                                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.2s">
-                        <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Services More</a>
+                        <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Mas...</a>
                     </div>
                 </div>
             </div>
