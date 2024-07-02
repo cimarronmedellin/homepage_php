@@ -258,6 +258,10 @@
     transition: .5s;
     opacity: 1;
 }
+.salol{
+    background-color: #18a51f;
+    background-color: #38df40;
+}
 
 @media (max-width: 991.98px) {
     .sticky-top.navbar-light {
@@ -799,7 +803,7 @@
 
 /*** testimonial Start ***/
 .testimonial {
-    background: linear-gradient(rgba(21, 185, 217, 0.9), rgba(21, 185, 217, 0.9)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgb(69 91 99 / 90%), rgb(55 125 27 / 90%)), url(../img/carousel-1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1040,7 +1044,7 @@
 }
 
 .blog .blog-item:hover .blog-img::after {
-    background: rgb(22, 168, 24);
+    background: rgba(22, 168, 24, 0.4);
 }
 
 .blog .blog-item .blog-centent {
