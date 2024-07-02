@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <title>Cimarron</title>
+<link rel="shortcut icon" href="./img/logoCimarron.jpg" type="image/x-jpg">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="afro" name="keywords">
 <meta content=" afrocolombianos poblacion negra" name="description">
