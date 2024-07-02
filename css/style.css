@@ -608,7 +608,7 @@
 }
 
 .feature .feature-item:hover .feature-content h5 {
-    color: var(--bs-dark);
+    color: var(--bs-white);
 }
 /*** Feature End ***/
 
